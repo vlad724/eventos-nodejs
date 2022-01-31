@@ -8,5 +8,3 @@ api de eventos en nodejs
 - jswebtoken para login 
 - mysql2 como motor de bd
 - sequelize como dependencia para la conexion y consultas a la bd
-- 
-
